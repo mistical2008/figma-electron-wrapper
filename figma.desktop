@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Figma
+Comment=Awesome vector graphics tool for cool interfaces
+Keywords=image;editor;vector;drawing;
+Type=Application
+Categories=Graphics;VectorGraphics;
+MimeType=image/svg+xml;image/svg+xml-compressed;application/vnd.corel-draw;application/pdf;application/postscript;image/x-eps;application/illustrator;
+Exec=/usr/bin/figma/figma
+TryExec=/usr/bin/figma/figma
+Terminal=false
+StartupNotify=true
+Icon=inkscape
