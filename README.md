@@ -1,2 +1,2 @@
 # figma-electron-wrapper
-For install run <code>chmod +x install.sh && ./install.sh</code>
+For install run <code>chmod +x install.sh && sudo ./install.sh</code>
