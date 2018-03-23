@@ -10,4 +10,4 @@ Exec=/usr/bin/figma/figma
 TryExec=/usr/bin/figma/figma
 Terminal=false
 StartupNotify=true
-Icon=inkscape
+Icon=/usr/bin/figma/logo.png
